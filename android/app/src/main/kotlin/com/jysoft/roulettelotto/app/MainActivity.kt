@@ -1,5 +1,6 @@
-package com.example.roulette_lotto
+package com.jysoft.roulettelotto.app
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity : FlutterActivity()
+
